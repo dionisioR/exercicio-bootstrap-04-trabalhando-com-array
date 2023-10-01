@@ -1,0 +1,25 @@
+.logo{
+    width: 32px;
+    border-radius: 50%;
+}
+header{
+    height: 80vh;
+    background-image: url('../img/03escalada.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+}
+div h1{
+    font-size: 4em;
+    text-shadow: 2px 2px 2px #fff;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+div h2{
+    text-shadow: 2px 2px 2px #fff;
+    margin-top: 0;
+    padding-top: 0;
+    line-height: .5;
+    font-size: 1.5em;
+
+}
